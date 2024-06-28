@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC User\\source\\repos\\Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|c:\\users\\pc user\\source\\repos\\practice\\practice\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|solutionrelative:practice\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|c:\\users\\pc user\\source\\repos\\practice\\practice\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|solutionrelative:practice\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|c:\\users\\pc user\\source\\repos\\practice\\practice\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|solutionrelative:practice\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|c:\\users\\pc user\\source\\repos\\practice\\practice\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|solutionrelative:practice\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|c:\\users\\pc user\\source\\repos\\practice\\practice\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|solutionrelative:practice\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|c:\\users\\pc user\\source\\repos\\practice\\practice\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|solutionrelative:practice\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|c:\\users\\pc user\\source\\repos\\practice\\practice\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|solutionrelative:practice\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|c:\\users\\pc user\\source\\repos\\practice\\practice\\wwwroot\\css\\calculator.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|solutionrelative:practice\\wwwroot\\css\\calculator.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|c:\\users\\pc user\\source\\repos\\practice\\practice\\pages\\calculator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|solutionrelative:practice\\pages\\calculator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|c:\\users\\pc user\\source\\repos\\practice\\practice\\pages\\calculator.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|solutionrelative:practice\\pages\\calculator.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|c:\\users\\pc user\\source\\repos\\practice\\practice\\wwwroot\\js\\calculator.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|solutionrelative:practice\\wwwroot\\js\\calculator.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|c:\\users\\pc user\\source\\repos\\practice\\practice\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|solutionrelative:practice\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|c:\\users\\pc user\\source\\repos\\practice\\practice\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|solutionrelative:practice\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|c:\\users\\pc user\\source\\repos\\practice\\practice\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|solutionrelative:practice\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC User\\source\\repos\\Practice\\Practice\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "Practice\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\PC User\\source\\repos\\Practice\\Practice\\Pages\\Login.cshtml",
+              "RelativeToolTip": "Practice\\Pages\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T15:14:57.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Calculator.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC User\\source\\repos\\Practice\\Practice\\Pages\\Calculator.cshtml",
+              "RelativeDocumentMoniker": "Practice\\Pages\\Calculator.cshtml",
+              "ToolTip": "C:\\Users\\PC User\\source\\repos\\Practice\\Practice\\Pages\\Calculator.cshtml",
+              "RelativeToolTip": "Practice\\Pages\\Calculator.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T14:00:48.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC User\\source\\repos\\Practice\\Practice\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Practice\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\PC User\\source\\repos\\Practice\\Practice\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Practice\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T13:59:03.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC User\\source\\repos\\Practice\\Practice\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Practice\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PC User\\source\\repos\\Practice\\Practice\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Practice\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T13:13:31.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC User\\source\\repos\\Practice\\Practice\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Practice\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\PC User\\source\\repos\\Practice\\Practice\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Practice\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T12:30:34.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC User\\source\\repos\\Practice\\Practice\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Practice\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\PC User\\source\\repos\\Practice\\Practice\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Practice\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T12:30:32.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC User\\source\\repos\\Practice\\Practice\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Practice\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\PC User\\source\\repos\\Practice\\Practice\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Practice\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T12:30:30.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PC User\\source\\repos\\Practice\\Practice\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Practice\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\PC User\\source\\repos\\Practice\\Practice\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Practice\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T12:30:11.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\PC User\\source\\repos\\Practice\\Practice\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Practice\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\PC User\\source\\repos\\Practice\\Practice\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Practice\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAcAAABAMzMzMzMrwAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-18T12:29:28.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PC User\\source\\repos\\Practice\\Practice\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Practice\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\PC User\\source\\repos\\Practice\\Practice\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "Practice\\Pages\\Login.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:15:22.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC User\\source\\repos\\Practice\\Practice\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practice\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC User\\source\\repos\\Practice\\Practice\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Practice\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T12:04:45.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Calculator.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PC User\\source\\repos\\Practice\\Practice\\Pages\\Calculator.cshtml.cs",
+              "RelativeDocumentMoniker": "Practice\\Pages\\Calculator.cshtml.cs",
+              "ToolTip": "C:\\Users\\PC User\\source\\repos\\Practice\\Practice\\Pages\\Calculator.cshtml.cs",
+              "RelativeToolTip": "Practice\\Pages\\Calculator.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T14:01:11.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "calculator.css",
+              "DocumentMoniker": "C:\\Users\\PC User\\source\\repos\\Practice\\Practice\\wwwroot\\css\\calculator.css",
+              "RelativeDocumentMoniker": "Practice\\wwwroot\\css\\calculator.css",
+              "ToolTip": "C:\\Users\\PC User\\source\\repos\\Practice\\Practice\\wwwroot\\css\\calculator.css",
+              "RelativeToolTip": "Practice\\wwwroot\\css\\calculator.css",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwCgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-18T14:05:56.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "calculator.js",
+              "DocumentMoniker": "C:\\Users\\PC User\\source\\repos\\Practice\\Practice\\wwwroot\\js\\calculator.js",
+              "RelativeDocumentMoniker": "Practice\\wwwroot\\js\\calculator.js",
+              "ToolTip": "C:\\Users\\PC User\\source\\repos\\Practice\\Practice\\wwwroot\\js\\calculator.js",
+              "RelativeToolTip": "Practice\\wwwroot\\js\\calculator.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-18T14:09:47.604Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
