@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\PC User\\Desktop\\reposit\\testing\\Practice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|c:\\users\\pc user\\desktop\\reposit\\testing\\practice\\practice\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|solutionrelative:practice\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|c:\\users\\pc user\\desktop\\reposit\\testing\\practice\\practice\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|solutionrelative:practice\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|c:\\users\\pc user\\desktop\\reposit\\testing\\practice\\practice\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|solutionrelative:practice\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -11,8 +19,8 @@
       "RelativeMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|solutionrelative:practice\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|c:\\users\\pc user\\desktop\\reposit\\testing\\practice\\practice\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|solutionrelative:practice\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|c:\\users\\pc user\\desktop\\reposit\\testing\\practice\\practice\\wwwroot\\css\\calculator.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|solutionrelative:practice\\wwwroot\\css\\calculator.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|c:\\users\\pc user\\desktop\\reposit\\testing\\practice\\practice\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|c:\\users\\pc user\\desktop\\reposit\\testing\\practice\\practice\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|solutionrelative:practice\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|c:\\users\\pc user\\desktop\\reposit\\testing\\practice\\practice\\wwwroot\\css\\calculator.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|solutionrelative:practice\\wwwroot\\css\\calculator.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{92EFAF0E-735B-4A25-8681-EB62F88AA576}|Practice\\Practice.csproj|c:\\users\\pc user\\desktop\\reposit\\testing\\practice\\practice\\pages\\calculator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -66,23 +70,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "login.css",
+              "DocumentMoniker": "C:\\Users\\PC User\\Desktop\\reposit\\testing\\Practice\\Practice\\wwwroot\\css\\login.css",
+              "RelativeDocumentMoniker": "Practice\\wwwroot\\css\\login.css",
+              "ToolTip": "C:\\Users\\PC User\\Desktop\\reposit\\testing\\Practice\\Practice\\wwwroot\\css\\login.css*",
+              "RelativeToolTip": "Practice\\wwwroot\\css\\login.css*",
+              "ViewState": "AQIAAD0AAAAAZmZmZmYGwFIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-29T14:38:20.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\PC User\\Desktop\\reposit\\testing\\Practice\\Practice\\Pages\\Login.cshtml",
               "RelativeDocumentMoniker": "Practice\\Pages\\Login.cshtml",
               "ToolTip": "C:\\Users\\PC User\\Desktop\\reposit\\testing\\Practice\\Practice\\Pages\\Login.cshtml",
               "RelativeToolTip": "Practice\\Pages\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-28T15:14:57.535Z"
+              "WhenOpened": "2024-06-28T15:14:57.535Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Calculator.cshtml",
               "DocumentMoniker": "C:\\Users\\PC User\\Desktop\\reposit\\testing\\Practice\\Practice\\Pages\\Calculator.cshtml",
               "RelativeDocumentMoniker": "Practice\\Pages\\Calculator.cshtml",
@@ -94,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\PC User\\Desktop\\reposit\\testing\\Practice\\Practice\\Pages\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Practice\\Pages\\Privacy.cshtml",
@@ -106,19 +124,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\PC User\\Desktop\\reposit\\testing\\Practice\\Practice\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Practice\\Pages\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\PC User\\Desktop\\reposit\\testing\\Practice\\Practice\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Practice\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-18T13:13:31.094Z"
+              "WhenOpened": "2024-06-18T13:13:31.094Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\PC User\\Desktop\\reposit\\testing\\Practice\\Practice\\Pages\\Error.cshtml",
               "RelativeDocumentMoniker": "Practice\\Pages\\Error.cshtml",
@@ -130,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\PC User\\Desktop\\reposit\\testing\\Practice\\Practice\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Practice\\Pages\\_ViewStart.cshtml",
@@ -142,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\PC User\\Desktop\\reposit\\testing\\Practice\\Practice\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Practice\\Pages\\_ViewImports.cshtml",
@@ -154,20 +173,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\PC User\\Desktop\\reposit\\testing\\Practice\\Practice\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Practice\\wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\PC User\\Desktop\\reposit\\testing\\Practice\\Practice\\wwwroot\\css\\site.css",
               "RelativeToolTip": "Practice\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAgAAABAMzMzMzMbwAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-06-18T12:29:28.957Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\PC User\\Desktop\\reposit\\testing\\Practice\\Practice\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Practice\\Pages\\Index.cshtml.cs",
@@ -179,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Login.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\PC User\\Desktop\\reposit\\testing\\Practice\\Practice\\Pages\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "Practice\\Pages\\Login.cshtml.cs",
@@ -191,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\PC User\\Desktop\\reposit\\testing\\Practice\\Practice\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Practice\\Pages\\Index.cshtml",
@@ -203,7 +222,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
+              "Title": "calculator.css",
+              "DocumentMoniker": "C:\\Users\\PC User\\Desktop\\reposit\\testing\\Practice\\Practice\\wwwroot\\css\\calculator.css",
+              "RelativeDocumentMoniker": "Practice\\wwwroot\\css\\calculator.css",
+              "ToolTip": "C:\\Users\\PC User\\Desktop\\reposit\\testing\\Practice\\Practice\\wwwroot\\css\\calculator.css",
+              "RelativeToolTip": "Practice\\wwwroot\\css\\calculator.css",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwCgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-18T14:05:56.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Calculator.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\PC User\\Desktop\\reposit\\testing\\Practice\\Practice\\Pages\\Calculator.cshtml.cs",
               "RelativeDocumentMoniker": "Practice\\Pages\\Calculator.cshtml.cs",
@@ -215,19 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "calculator.css",
-              "DocumentMoniker": "C:\\Users\\PC User\\Desktop\\reposit\\testing\\Practice\\Practice\\wwwroot\\css\\calculator.css",
-              "RelativeDocumentMoniker": "Practice\\wwwroot\\css\\calculator.css",
-              "ToolTip": "C:\\Users\\PC User\\Desktop\\reposit\\testing\\Practice\\Practice\\wwwroot\\css\\calculator.css",
-              "RelativeToolTip": "Practice\\wwwroot\\css\\calculator.css",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAuwCgAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-18T14:05:56.83Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "calculator.js",
               "DocumentMoniker": "C:\\Users\\PC User\\Desktop\\reposit\\testing\\Practice\\Practice\\wwwroot\\js\\calculator.js",
               "RelativeDocumentMoniker": "Practice\\wwwroot\\js\\calculator.js",
